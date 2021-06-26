@@ -1,4 +1,5 @@
 # Neural-Network-From-Scratch
+Aditi
 
 Implementation of N-layered neural network from scratch.
 The following features are implemented:
