@@ -1,5 +1,5 @@
-# Neural-Network-From-Scratch
-Aditi
+# Neural-Network-From-Scratch | Handwritten Digit Recognizer
+\Aditi
 
 Implementation of N-layered neural network from scratch.
 The following features are implemented:
